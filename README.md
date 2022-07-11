@@ -1,4 +1,4 @@
-##My attempt on CRUD of Mongoose & Nestjs
+## My attempt on CRUD of Mongoose & Nestjs
 Tried creating a simple CRUD project whereby the user can CRUD on mongoDB database
 
 ## Installation
